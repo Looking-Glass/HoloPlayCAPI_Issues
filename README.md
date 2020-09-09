@@ -1,2 +1,1 @@
-# HoloPlayCAPI_Issues
-This repository is for feature requests and bug reporting for the HoloPlay C API. It contains no source code. To receive the closed beta for the HoloPlay C API, please fill out this form: https://docs.google.com/forms/d/1UDvp7AX4X1Jf16kTyROBbMfhXN-AEiqrrCkR7-9CzOE/.
+The HoloPlay C API has been deprecated. If you'd like to implement a custom renderer for the Looking Glass, please see our new SDK, [HoloPlay Core](https://lookingglassfactory.com/holoplay-core).
